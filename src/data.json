@@ -1,0 +1,64 @@
+ {
+    "products":[
+        {   
+           "_id":"dress1",
+            "image":"/images/img1.jpeg",
+            "desrciption":"Shirts........",
+            "brand":"US POLO",
+            "title":"Men  Casual Shirt",
+            "price":30,
+            "availableSizes": ["XL","L"]       
+        },
+        {   
+            "_id":"dress2",
+             "image":"/images/img2.jpeg",
+             "desrciption":"Shirts........",
+             "brand":"US POLO",
+             "title":"Men Slim Fit Striped Shirt",
+             "price":50,
+             "availableSizes": ["XXL","S"]            
+            
+         },
+         {   
+            "_id":"dress3",
+             "image":"/images/img3.jpeg",
+             "desrciption":"Shirts........",
+             "brand":"US POLO",
+             "title":" Spread Collar Casual Shirt",
+             "price":45,
+             "availableSizes": ["L","XL"]            
+            
+         },
+         {   
+            "_id":"dress4",
+             "image":"/images/img4.jpeg",
+             "desrciption":"Shirts........",
+             "brand":"US POLO",
+             "title":"Men  Striped Spread Collar Casual Shirt",
+             "price":10,
+             "availableSizes": ["L","M"]            
+            
+         },
+         {   
+            "_id":"dress5",
+             "image":"/images/img5.jpeg",
+             "desrciption":"Shirts........",
+             "brand":"US POLO",
+             "title":"Men Slim Fit Casual Shirt",
+             "price":30,
+             "availableSizes": ["XXL","S"]            
+            
+         },
+         {   
+            "_id":"dress6",
+             "image":"/images/img6.jpeg",
+             "desrciption":"Shirts........",
+             "brand":"US POLO",
+             "title":"Men  Shirt",
+             "price":80,
+             "availableSizes": ["XL","L","M"]            
+            
+         }
+        
+    ]
+}

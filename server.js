@@ -6,8 +6,10 @@ const shortid=require("shortid")
 const app=express();
 app.use(bodyParser.json())
 
-
-mongoose.connect("mongodb+srv://my-cherry:test123@my-pro.htlqj.mongodb.net/my-pro?retryWrites=true&w=majority",{
+//mongodb+srv://my-pro.htlqj.mongodb.net/my-app?authSource=%24external&authMechanism=MONGODB-X509&retryWrites=true&w=majority
+mongoose.connect(
+    process.env.MONGODB_URL || 'mongodb://localhost/shopping-cart'
+    ,{
     useNewUrlParser:true,
     useCreateIndex:true,
     useUnifiedTopology:true,

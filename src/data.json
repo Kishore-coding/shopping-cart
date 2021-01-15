@@ -6,8 +6,8 @@
             "desrciption":"Shirts........",
             "brand":"US POLO",
             "title":"Men  Casual Shirt",
-            "price":30,
-            "availableSizes": ["XL","L"]       
+            "price":1500,
+            "availableSizes": ["XL","L", "M"]       
         },
         {   
             "_id":"dress2",
@@ -15,8 +15,8 @@
              "desrciption":"Shirts........",
              "brand":"US POLO",
              "title":"Men Slim Fit Striped Shirt",
-             "price":50,
-             "availableSizes": ["XXL","S"]            
+             "price":2500,
+             "availableSizes": ["XXL","S","L"]            
             
          },
          {   
@@ -25,8 +25,8 @@
              "desrciption":"Shirts........",
              "brand":"US POLO",
              "title":" Spread Collar Casual Shirt",
-             "price":45,
-             "availableSizes": ["L","XL"]            
+             "price":1000,
+             "availableSizes": ["L","XL","M"]            
             
          },
          {   
@@ -35,8 +35,8 @@
              "desrciption":"Shirts........",
              "brand":"US POLO",
              "title":"Men  Striped Spread Collar Casual Shirt",
-             "price":10,
-             "availableSizes": ["L","M"]            
+             "price":800,
+             "availableSizes": ["L","M","S"]            
             
          },
          {   
@@ -45,8 +45,8 @@
              "desrciption":"Shirts........",
              "brand":"US POLO",
              "title":"Men Slim Fit Casual Shirt",
-             "price":30,
-             "availableSizes": ["XXL","S"]            
+             "price":3000,
+             "availableSizes": ["XXL","S","XL"]            
             
          },
          {   
@@ -55,7 +55,7 @@
              "desrciption":"Shirts........",
              "brand":"US POLO",
              "title":"Men  Shirt",
-             "price":80,
+             "price":1800,
              "availableSizes": ["XL","L","M"]            
             
          }

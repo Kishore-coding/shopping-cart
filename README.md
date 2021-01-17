@@ -6,6 +6,6 @@ This is the simple shopping cart project , which is created using mern stack . I
 
 1. I used backend and frontend in the same folder, so in the same directory run both server and client.
 
-2. First run server using the command npm run server in the terminal.
+2. First run server using the command npm run server in the terminal from the current directory shopping-cart.
 
-3. Next run your client by opening the another terminal by entering the command start from same directory.
+3. Next run your client by opening the another terminal by entering the command npm start from same directory(shopping-cart).
